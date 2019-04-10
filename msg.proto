@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package repo2
+package repo2;
 
 message Message {
   string name = 1;
